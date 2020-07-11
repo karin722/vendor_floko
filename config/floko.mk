@@ -112,6 +112,7 @@ PRODUCT_PACKAGES += \
     FacebookBlue \
     InstagramCerise \
     JollibeeCrimson \
+    KananGreen \
     MonsterEnergyGreen \
     NextbitMint \
     OneplusRed \
